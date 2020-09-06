@@ -11,7 +11,7 @@
  ![image1](/document/images/image4.jpg)  
 
  실시간으로 선 따오기. 클릭하면 영상으로 연결됩니다.
- [![실시간으로 선 따오기](https://j.gifs.com/0YKqnX.gif)](https://youtu.be/KJzmF9WuidM) 
+ ![실시간으로 선 따오기](https://j.gifs.com/0YKqnX.gif)](https://youtu.be/KJzmF9WuidM) 
  당시에는 노트북의 웹캠을 이용했고, 몇주 이후의 영상입니다
 
  ### **어려웠던점**
