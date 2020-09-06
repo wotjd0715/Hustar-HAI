@@ -1,7 +1,16 @@
- ###Week 1 - 프로젝트 사전 공부
+ ###Week 2 - Line Detecting
  ### **내용** 
- CodeIT에서 머신러닝의 기본적인 개념에 대해 공부고 구글 검색등 자료를 수집하며 CNN, MNN 등 밑바닥 부터 공부 하였다  
-   
+ 동영상으로 찍은 트랙을 OpenCV에서 Canny와 Hough transform을 이용해 Line Detecting을 하였고
+ 실시간으로 카메라 모듈로부터 영상 받아오기위헤 MJPG Streamer, Cheese, 라즈베리파이 카메라 모듈을 사용해 보았다.  
+ 
+ 자율주행용 Track   
+ ![image1](/document/iamges/image2.jpg)    
+ 
+ OpenCV를 이용한 Line Detecting   
+ ![image1](/document/iamges/image3.jpg)    
+ 
+ ![image1](/document/iamges/image4.jpg)  
+
  ### **어려웠던점**
   자율주행의 원리 조차 몰랐으며 그로 인해 어떤걸 공부해야할지 몰라 어려움을 겪었다   
  또한 CodeIT 만으로는 인공지능을 공부하기에는 부족였고 전반적인 기초 베이스 역시 부족하였다.    
@@ -11,7 +20,7 @@
  인공지능이 어떻게 학습하고 어떻게 동작하는지 전체적인 흐름을 배웠고 기본적인 Concept에 대해 알 수 있었다.   
  이미지 처리에 쓰이는 기본적인 CNN에 대한 개념과 가장 기본 형태의 MNN을 공부하였고 LaneNet, PathNet, YOLO 등을 공부 하였으나 
  실제로 사용하기에는 어려움이 있다고 판단하여 OpenCV를 이용하여 전처리후 CNN과 MNN을 이용한 모델을 구성하기로 하였다.   
- ![image1](/HAI_images/image1.jpg)
+ 
  
  **박재성**   
  멤버 대부분이 인공지능이라는 개념에 대해 처음 접하였고 그나마 이전에 겉핡기 수준으로 책으로 공부했던 내가 부족하지만 
