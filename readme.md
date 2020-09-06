@@ -25,7 +25,17 @@ HW
 
 ### Code
    - imgprocess.py
+      ```  
+      영상의 전처리를 위한 코드.
+      영상을 읽어서 Edge Detction후
+      각 프레임을 list에 넣어서 리턴한다.
+      ```
    - learning.py 
+      ```
+      학습을 시키는 코드.
+      데이터를 가져오고 학습 전 전처리를 하고
+      모델을 만들고 학습 및 평가를 진행한다.
+      ```
  ## Progress
  - [Week1- 프로젝트 사전 공부](/document/Week1.md)
  - [Week1- 프로젝트 사전 공부](/document/Week2.md) 
