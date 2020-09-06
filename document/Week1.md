@@ -2,7 +2,8 @@
  ### **내용** 
  CodeIT에서 머신러닝의 기본적인 개념에 대해 공부고 구글 검색등 자료를 수집하며 CNN, MNN 등 밑바닥 부터 공부 하였다   
  
-  ![image1](/document/images/image1.jpg)  
+  <img src = "/document/images/image1.jpg" width="400px", height = "400px">
+
  ### **어려웠던점**
   자율주행의 원리 조차 몰랐으며 그로 인해 어떤걸 공부해야할지 몰라 어려움을 겪었다   
  또한 CodeIT 만으로는 인공지능을 공부하기에는 부족였고 전반적인 기초 베이스 역시 부족하였다.    

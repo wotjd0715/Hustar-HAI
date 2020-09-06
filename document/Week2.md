@@ -1,4 +1,4 @@
- ###Week 2 - Line Detecting
+ ### Week 2 - Line Detecting
  ### **내용** 
  동영상으로 찍은 트랙을 OpenCV에서 Canny와 Hough transform을 이용해 Line Detecting을 하였고
  실시간으로 카메라 모듈로부터 영상 받아오기위헤 MJPG Streamer, Cheese, 라즈베리파이 카메라 모듈을 사용해 보았다.  
