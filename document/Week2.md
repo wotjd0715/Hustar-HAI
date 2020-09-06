@@ -7,8 +7,7 @@
  ![image1](/document/images/image2.jpg)    
  
  OpenCV를 이용한 Line Detecting   
- ![image1](/document/images/image3.jpg)    
- 
+ ![image1](/document/images/image3.jpg)
  ![image1](/document/images/image4.jpg)  
 
  ### **어려웠던점**
