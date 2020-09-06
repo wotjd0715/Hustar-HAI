@@ -10,6 +10,9 @@
  ![image1](/document/images/image3.jpg)
  ![image1](/document/images/image4.jpg)  
 
+ 실시간 으로 선 따오기. 클릭하면 영상으로 연결됩니다.
+ [![실시간으로 선 따오기](https://j.gifs.com/0YKqnX.gif)](https://youtu.be/KJzmF9WuidM) 
+
  ### **어려웠던점**
   자율주행의 원리 조차 몰랐으며 그로 인해 어떤걸 공부해야할지 몰라 어려움을 겪었다   
  또한 CodeIT 만으로는 인공지능을 공부하기에는 부족였고 전반적인 기초 베이스 역시 부족하였다.    
