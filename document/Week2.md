@@ -4,12 +4,12 @@
  실시간으로 카메라 모듈로부터 영상 받아오기위헤 MJPG Streamer, Cheese, 라즈베리파이 카메라 모듈을 사용해 보았다.  
  
  자율주행용 Track   
- ![image1](/document/iamges/image2.jpg)    
+ ![image1](/document/images/image2.jpg)    
  
  OpenCV를 이용한 Line Detecting   
- ![image1](/document/iamges/image3.jpg)    
+ ![image1](/document/images/image3.jpg)    
  
- ![image1](/document/iamges/image4.jpg)  
+ ![image1](/document/images/image4.jpg)  
 
  ### **어려웠던점**
   자율주행의 원리 조차 몰랐으며 그로 인해 어떤걸 공부해야할지 몰라 어려움을 겪었다   
