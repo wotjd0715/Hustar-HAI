@@ -27,4 +27,8 @@
  프로젝트를 진행했다. 그래도 
  
  
+ **양영우**   
+ Colab에서 line detecting을 설계하기 전 MNIST를 이용하여 손글씨를 인식하는 법을 먼저 배운 뒤 line detecting을 시도하였다.   
+ line detecting을 위해 이미지를 Blur를 처리한 후 Canny를 이용하여 모든 line을 찾은 뒤 관심 영역을 지정하고 허프 변환으로 line을 detecting하는 법을 배웠다.   
+ 허프 변환을 이용할 때 line을 완벽하게 받아오지 못하는 경우가 있어 Canny가 프로젝트에 더 맞는다고 생각할 수 있었다.   
  
