@@ -10,8 +10,10 @@
  ![image1](/document/images/image3.jpg)
  ![image1](/document/images/image4.jpg)  
 
- 실시간 으로 선 따오기. 클릭하면 영상으로 연결됩니다.
+ 실시간으로 선 따오기. 
+ 클릭하면 영상으로 연결됩니다.
  [![실시간으로 선 따오기](https://j.gifs.com/0YKqnX.gif)](https://youtu.be/KJzmF9WuidM) 
+ (당시에는 노트북의 웹캠을 이용했고, 몇주 이후의 영상입니다.)
 
  ### **어려웠던점**
   Line Detecting을 구현하는데 있어 시간이 오래 걸릴줄 알았지만 OpenCV라는 라이브러리를 이용하다보니 생긱보다 쉽게 Line Detecting을 
