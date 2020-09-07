@@ -8,8 +8,8 @@
  ![image1](/document/images/image6.jpg)
  
  모델 학습률   
- ![image1](/document/images/image7.jpg)   
- ![image1](/document/images/image8.jpg)
+ ![image1](/document/images/image7.png)   
+ ![image1](/document/images/image8.png)
  
  ### **어려웠던점**
  자율주행을 위해 라즈베리파이의 와이파이 모듈을 사용하여 노트북과 무선으로 연결했지만 자꾸 라즈베리 파이가 꺼지는 상황이 발생했다.
