@@ -1,15 +1,15 @@
 ## HAI-RC카를 이용한 자율주행
 
 ### Members
-- 박재성
-- 권현수
-- 이진우 
-- 이상목
-- 양영우
-- 윤동준
+- [박재성](https://github.com/wotjd0715)
+- [권현수](https://github.com/KwonHyeonSu)
+- [이진우](https://github.com/tgs04013)
+- [이상목](https://github.com/SNMHZ)
+- [양영우](https://github.com/YangYoungwoo)
+- [윤동준](https://github.com/yundj4408)
 
 ### Project 
-RC카가 직접 만든 바닥의 트랙에서 카메라를 이용한 라인 디텍팅을 통해 자율주행을 하는것을 목표로 한다.
+RC카가 자체 제작한 트랙에서 카메라만 이용하여 라인을 따라 자율 주행 하는 것을 목표로 한다.
 
 ### Project Detail
 SW   
@@ -24,13 +24,13 @@ HW
  - Raspberrypi for Input data
 
 ### Code
-   - imgprocess.py
+   - [imgprocess.py](/imgprocess.py)
       ```  
       영상의 전처리를 위한 코드.
       영상을 읽어서 Edge Detction후
       각 프레임을 list에 넣어서 리턴한다.
       ```
-   - learning.py 
+   - [learning.py](/learning.py)
       ```
       학습을 시키는 코드.
       데이터를 가져오고 학습 전 전처리를 하고
@@ -43,5 +43,9 @@ HW
  - [Week4- 자율주행 Desgin & Test](/document/Week4.md) 
  - [Week5- Project Feedback](/document/Week5.md)  
  
- 
- 
+ <br><br>
+
+ --------
+
+Hustar ICT 2020 소모임<br>
+Hustar AI, HAI
